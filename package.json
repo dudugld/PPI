@@ -1,0 +1,27 @@
+{
+  "name": "ppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudugld/PPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dudugld/PPI/issues"
+  },
+  "homepage": "https://github.com/dudugld/PPI#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "express-handlebars": "^9.0.2",
+    "mysql2": "^3.24.6",
+    "nodemon": "^3.1.14"
+  }
+}
